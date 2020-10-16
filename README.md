@@ -1,1 +1,1 @@
-# Face-Recognition-with-Dynamic-Triplet-Loss
+# Face-Recognition-with-Triplet-Loss
